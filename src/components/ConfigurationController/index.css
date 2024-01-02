@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Roboto';
+}
+
+.title {
+  margin-top: 0px;
+  color: white;
+}
+.labelContent {
+  color: white;
+  font-size: 10px;
+}
+
+.configuration-controller-main-container {
+  background-color: #475569;
+  display: flex;
+  
+}
+
+.label-container {
+  display: flex;
+  align-items: center;
+}
+.configuration-controller-container {
+  width: 70vw;
+}

@@ -1,0 +1,8 @@
+.Layout-Container {
+  display: flex;
+  flex-direction: column;
+  justify-content:;
+  align-items: center;
+  width: 100vw;
+  margin-top: 15px;
+}
